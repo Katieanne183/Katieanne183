@@ -28,7 +28,7 @@ Here are some of the projects I’m most proud of:
 ---
 
 ## 🎯 Currently Working On
-- Landing my a data scientist role
+- Landing a data scientist role
 - Expanding my GitHub portfolio with more machine learning and analytics projects.
 - Networking and applying for data science, product analyst, and machine learning engineer roles.
 - Enhancing my skills in predictive modeling and advanced machine learning.
