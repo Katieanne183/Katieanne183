@@ -1,19 +1,10 @@
 # 👋 Hi there, I'm Katie Kennedy!
 
-[![MIT xPro Certificate](https://img.shields.io/badge/MIT%20xPro-Applied%20Data%20Science%20Certificate-red?logo=mit)](https://professional.mit.edu/programs/short-programs/applied-data-science-program)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+Welcome to my GitHub! I’m a former educator turned aspiring **Data Scientist** with a strong background in mathematics, education, and data analysis. I recently completed the **MIT Applied Data Science Certificate Program** and am passionate about leveraging data to solve meaningful problems and drive business impact.
 
 ---
 
-## 🚀 About Me
-I’m a former educator turned aspiring **Data Scientist** with a strong background in mathematics, education, and data analysis. I recently completed the **MIT Applied Data Science Certificate Program** and am passionate about leveraging data to solve meaningful problems and drive business impact.
-
----
-
-## 🎯 Career Transition & Mission
+## 🚀 Career Transition & Mission
 After 11 years in education, I’ve transitioned into data science to combine my analytical mindset, curiosity, and love for learning with technical tools like Python and machine learning. My mission is to use data science for good—whether it's in **EdTech**, nonprofits, or mission-driven organizations.
 
 ---
@@ -36,7 +27,7 @@ Here are some of the projects I’m most proud of:
 
 ---
 
-## 🌱 Currently Working On
+## 🎯 Currently Working On
 - Expanding my GitHub portfolio with more machine learning and analytics projects.
 - Networking and applying for data science, product analyst, and machine learning engineer roles.
 - Enhancing my skills in predictive modeling and advanced machine learning.
