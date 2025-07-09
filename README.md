@@ -20,10 +20,58 @@ After 11 years in education, I’ve transitioned into data science to combine my
 ## 📂 Featured Projects
 Here are some of the projects I’m most proud of:
 
-- **[Marketing Campaign Customer Segmentation](https://github.com/Katieanne183/Marketing-Campaign-Customer-Segmentation)**
-  - Customer segmentation using K-Means clustering and dimensionality reduction to drive targeted marketing strategies.
+## 📂 Featured Projects
+Here are some of the projects I’m most proud of:
 
-- *(More projects coming soon—stay tuned!)*
+---
+
+### 🎯 Marketing Campaign Customer Segmentation
+Performed customer segmentation using K-Means clustering and dimensionality reduction techniques to drive targeted marketing strategies.
+**Key Highlights:**
+- Applied K-Means clustering to identify distinct customer groups.
+- Utilized dimensionality reduction for better visualization and interpretation.
+- Delivered actionable recommendations for marketing optimization.
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib.
+
+[🔗 Project Repository »](https://github.com/Katieanne183/Marketing-Campaign-Customer-Segmentation)
+
+---
+
+### 🚗 PCA and t-SNE Analysis: Vintage Car Segmentation
+Applied PCA and t-SNE on the Auto MPG dataset to segment vintage cars for a fictional dealership, **SecondLife**.
+**Key Highlights:**
+- Identified 3 vintage car segments based on fuel efficiency, performance, and engine characteristics.
+- Provided business recommendations for marketing, pricing, and procurement strategies.
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib.
+
+[🔗 Project Repository »](https://github.com/Katieanne183/PCA-and-t-SNE-Anaylsis-Vintage-Car-Segmentation)
+
+---
+
+### 🏦 AllLife Bank Customer Segmentation *(Coming Soon)*
+Performed customer segmentation analysis on credit card customers using advanced clustering techniques.
+**Key Highlights:**
+- Applied PCA, K-Means, Gaussian Mixture Models (GMM), and K-Medoids clustering methods.
+- Identified 3 key customer segments: High-Value, Medium-Value, and Low-Value.
+- Provided business recommendations for marketing, customer service enhancements, and retention strategies.
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib.
+
+---
+
+### 🍴 Enhancing Customer Experience: FoodHub Demand Analysis
+Analyzed transactional data from a food aggregator platform to uncover customer behavior and product performance.
+**Key Highlights:**
+- Conducted Exploratory Data Analysis (EDA) and statistical analysis.
+- Identified key drivers of high-order volumes and customer preferences.
+- Provided recommendations to improve customer experience and optimize product offerings.
+- **Tools:** Python, Pandas, Matplotlib, Seaborn.
+
+[🔗 Project Repository »](https://github.com/Katieanne183/Enhancing-Customer-Experience-FoodHub-Demand-Anyalsis)
+
+---
+
+### ✨ More Projects Coming Soon!
+Stay tuned for additional projects on clustering, predictive modeling, and machine learning.
 
 ---
 
