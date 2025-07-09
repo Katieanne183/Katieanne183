@@ -20,9 +20,6 @@ After 11 years in education, I’ve transitioned into data science to combine my
 ## 📂 Featured Projects
 Here are some of the projects I’m most proud of:
 
-## 📂 Featured Projects
-Here are some of the projects I’m most proud of:
-
 ---
 
 ### 🎯 Marketing Campaign Customer Segmentation
