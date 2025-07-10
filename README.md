@@ -22,7 +22,7 @@ Here are some of the projects I’m most proud of:
 
 ---
 
-### 🎯 Marketing Campaign Customer Segmentation
+### 🎯 Marketing Customer Segmentation
 Performed customer segmentation using K-Means clustering and dimensionality reduction techniques to drive targeted marketing strategies.
 **Key Highlights:**
 - Applied K-Means clustering to identify distinct customer groups.
@@ -30,22 +30,22 @@ Performed customer segmentation using K-Means clustering and dimensionality redu
 - Delivered actionable recommendations for marketing optimization.
 - **Tools:** Python, Pandas, Scikit-learn, Matplotlib.
 
-[🔗 Project Repository »](https://github.com/Katieanne183/Marketing-Campaign-Customer-Segmentation)
+[🔗 Project Repository »](https://github.com/Katieanne183/marketing-customer-segmentation)
 
 ---
 
-### 🚗 PCA and t-SNE Analysis: Vintage Car Segmentation
+### 🚗 Vintage Car Segmentation
 Applied PCA and t-SNE on the Auto MPG dataset to segment vintage cars for a fictional dealership, **SecondLife**.
 **Key Highlights:**
 - Identified 3 vintage car segments based on fuel efficiency, performance, and engine characteristics.
 - Provided business recommendations for marketing, pricing, and procurement strategies.
 - **Tools:** Python, Pandas, Scikit-learn, Matplotlib.
 
-[🔗 Project Repository »](https://github.com/Katieanne183/PCA-and-t-SNE-Anaylsis-Vintage-Car-Segmentation)
+[🔗 Project Repository »](https://github.com/Katieanne183/vintage-car-segmentation)
 
 ---
 
-### 🍴 Enhancing Customer Experience: FoodHub Demand Analysis
+### 🍴 FoodHub Demand Anaylsis 
 Analyzed transactional data from a food aggregator platform to uncover customer behavior and product performance.
 **Key Highlights:**
 - Conducted Exploratory Data Analysis (EDA) and statistical analysis.
@@ -53,7 +53,7 @@ Analyzed transactional data from a food aggregator platform to uncover customer 
 - Provided recommendations to improve customer experience and optimize product offerings.
 - **Tools:** Python, Pandas, Matplotlib, Seaborn.
 
-[🔗 Project Repository »](https://github.com/Katieanne183/Enhancing-Customer-Experience-FoodHub-Demand-Anyalsis)
+[🔗 Project Repository »](https://github.com/Katieanne183/foodhub-demand-analysis)
 
 ---
 
