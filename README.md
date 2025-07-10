@@ -45,16 +45,6 @@ Applied PCA and t-SNE on the Auto MPG dataset to segment vintage cars for a fict
 
 ---
 
-### 🏦 AllLife Bank Customer Segmentation *(Coming Soon)*
-Performed customer segmentation analysis on credit card customers using advanced clustering techniques.
-**Key Highlights:**
-- Applied PCA, K-Means, Gaussian Mixture Models (GMM), and K-Medoids clustering methods.
-- Identified 3 key customer segments: High-Value, Medium-Value, and Low-Value.
-- Provided business recommendations for marketing, customer service enhancements, and retention strategies.
-- **Tools:** Python, Pandas, Scikit-learn, Matplotlib.
-
----
-
 ### 🍴 Enhancing Customer Experience: FoodHub Demand Analysis
 Analyzed transactional data from a food aggregator platform to uncover customer behavior and product performance.
 **Key Highlights:**
