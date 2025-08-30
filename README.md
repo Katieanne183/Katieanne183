@@ -45,7 +45,7 @@ Applied PCA and t-SNE on the Auto MPG dataset to segment vintage cars for a fict
 
 ---
 
-### 🍴 FoodHub Demand Anaylsis 
+### 🍴 FoodHub Demand Analysis 
 Analyzed transactional data from a food aggregator platform to uncover customer behavior and product performance.
 **Key Highlights:**
 - Conducted Exploratory Data Analysis (EDA) and statistical analysis.
